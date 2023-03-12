@@ -12,6 +12,11 @@ Part 2:
 2. Load data from the database to dataframes by queries and do the Visualization
 3. Observation from the charts.
 
+# Tech
+- MySQL.
+- Python: Numpy, Pandas, Matplotlib, Seaborn
+- Jupyter Notebook.
+
 # Containing files
 1. TerpBuy.sql: initial database script (create database, tables and insert data into tables).
 2. TerpBuy_data_dictionary.jpg: database dictionary.
