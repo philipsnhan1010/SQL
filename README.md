@@ -14,7 +14,7 @@ Part 2:
 
 # Tech
 - MySQL.
-- Python: Numpy, Pandas, Matplotlib, Seaborn
+- Python: Numpy, Pandas, Matplotlib, Seaborn.
 - Jupyter Notebook.
 
 # Containing files
