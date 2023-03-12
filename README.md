@@ -6,6 +6,7 @@ The company is looking for insights on different aspects of its customers, produ
 Part 1:
 1. Load Terpbuy database.
 2. Perform SQL scripting by answering some analysis questions.
+
 Part 2:
 1. Connect the database by Python.
 2. Load data from the database to dataframes by queries and do the Visualization
